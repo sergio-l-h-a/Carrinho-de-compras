@@ -23,7 +23,10 @@ Este projeto simula a lógica de um carrinho de compras utilizando JavaScript pu
 ------
 Clone o repositório
 
+https://github.com/sergio-l-h-a/Carrinho-de-compras.git
+
 Execute com Node.js:
+------
 node index.js
 
 📌 Exemplo de saída
